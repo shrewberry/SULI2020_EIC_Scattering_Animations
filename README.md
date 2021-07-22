@@ -1,4 +1,4 @@
-# SULI2020_EIC_Scattering_Animations
+# SULI2021_EIC_Scattering_Animations
 These animations were made using the python bindings for Cairo to generate the frames in Jupyter notebook. Then using Ffmpeg, the frames were compiled into a gif.
 
 The EIC uses an ion beam and an electron beam in order to probe hadrons. These animations demonstrate the collisions between a 100 GeV/c proton and a 11 GeV electron. The goal of these animations is to demonstrate Lorentz invariant quantities.
